@@ -1,0 +1,18 @@
+# Build output
+target/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Local database credentials (copy of src/main/resources/db.properties with your real password)
+/db.properties
+
+# OS
+.DS_Store
+Thumbs.db
